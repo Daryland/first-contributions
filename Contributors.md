@@ -1,6 +1,7 @@
    # Contributors
 <!-- prettier-ignore-start -->
 
+- [Daniel Ryland](https://github.com/Daryland)
 - [Aryaman Pathak](https://github.com/aryamanpathak2022)
 - [Sagar Sharma](https://github.com/sagar-io)
 - [Gantulga Enkhbat](https://github.com/Gantulga202)
